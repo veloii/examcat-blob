@@ -1,0 +1,99 @@
+Front,Back
+RPA 6 force and extension: method for investigating a spring,"- Set up a clamp stand with a spring hanging from the clamp
+- Fix a metre rule beside the spring with a second clamp and boss
+- Record the ruler reading level with the bottom of the unstretched spring
+- Add a known weight to the spring
+- Record the new position of the bottom of the spring
+- Calculate extension = new length/reading - original length/reading
+- Add more weights so the force increases step by step
+- Record the spring position and extension for each force
+- Plot force against extension or use F = k e
+- Risk: masses/clamp could fall or spring could break; secure apparatus and wear goggles"
+"RPA 6 force and extension: context, risks and examiner traps","- Extension is change in length, not total length
+- Clamp the ruler vertically and keep it fixed
+- Read the bottom of the spring at eye level to reduce parallax error
+- Several forces help identify anomalous results or reduce random error
+- Repeating alone was not enough in one mark scheme unless linked to anomalies/random error
+- Hooke's law is supported by a straight line through the origin
+- Use F = k e
+- Convert cm to m when calculating spring constant in N/m
+- Do not go beyond the limit of proportionality if testing Hooke's law"
+"RPA 7 force, mass and acceleration: trolley method","- Use a trolley on a runway connected by string over a pulley to a mass hanger
+- Clamp the pulley to the edge of the desk so the string does not rub
+- Add a slotted mass to the mass holder
+- Use W = m g to calculate the pulling force
+- Mark start and finish points on the runway
+- Measure the distance between the marks with a metre rule
+- Release the trolley without pushing it
+- Measure the time with a stopclock/timer, light gates/data logger or ticker timer
+- Calculate acceleration from speed/time data or let the data logger calculate it
+- Repeat for different slotted masses or different ramp heights
+- Repeat readings and calculate a mean"
+"RPA 7 force, mass and acceleration: context, risks and examiner traps","- Trilogy Physics has 6-mark RPA 7 method questions for trolley acceleration
+- 2023 Trilogy tests varying force with a pulley, string and mass holder
+- 2020 Trilogy tests how ramp height affects acceleration
+- For constant mass, acceleration is directly proportional to resultant force
+- For constant resultant force, acceleration is inversely proportional to mass
+- Use resultant force = mass x acceleration
+- Use W = m g to calculate pulling force from hanging mass
+- Release from the same position each time and do not push the trolley
+- Keep the relevant mass controlled when varying force
+- Use repeats, discard anomalies and calculate a mean
+- Uncertainty from repeats can be ± half the range"
+RPA 8 waves: method for measuring wave speed,"- Trilogy Physics has a 6-mark water-wave method for measuring wavelength, frequency and speed
+- For frequency, count waves passing a point in a fixed time
+- Divide time by number of waves to find period T, then use f = 1/T
+- Alternatively, read frequency from the oscillator
+- For wavelength, use a camera to freeze the image
+- Measure distance across several wavefronts with a metre rule
+- Divide the distance by the number of waves to find wavelength
+- For speed, use v = f x wavelength
+- Alternatively, time one wavefront over a measured screen distance and use speed = distance ÷ time
+- For waves on a string, adjust frequency, keep masses the same, move the bridge and get a stationary pattern"
+"RPA 8 waves: context, risks and examiner traps","- Trilogy Physics has a 6-mark RPA 8 water-wave question and 4-mark string-wave method questions
+- To access top level in the water-wave question, describe frequency, wavelength and speed
+- Measure wavelength across several waves, not just one gap, then divide
+- Use a metre rule or tape measure for large wavelengths
+- Convert cm or mm to m when needed for v = fλ
+- Frequency is waves per second, not wavelength
+- If wave speed is constant and frequency increases, wavelength decreases
+- A stationary wave pattern is needed before measuring wavelength on a string
+- Precise results have a small spread about the mean
+- Do not just name apparatus; say how each measurement is taken"
+RPA 9 reflection/refraction: refraction method with a glass block,"- Place a glass block on a piece of paper
+- Draw around the glass block
+- Shine a narrow ray from a ray box through the glass block
+- Mark the incident ray entering the block
+- Mark the emergent ray leaving the block
+- Remove the block and join the points to show the full ray path
+- Draw a normal at 90° to the surface where the ray enters
+- Use a protractor to measure angle of incidence and angle of refraction
+- Repeat for different angles of incidence, for example 10° intervals
+- Plot or compare the results"
+"RPA 9 reflection/refraction: context, risks and examiner traps","- Measure angles from the normal, not from the surface
+- A narrow ray is more accurate because the centre of the ray is easier to judge
+- Mark two points on each ray so the path can be joined accurately
+- A protractor with 1° resolution should not be used to record values to 1 decimal place
+- Refraction data may need a curved line of best fit, not a straight line
+- A ray along the normal does not refract because it enters the glass at the same time/along the normal
+- For reflection, angle of incidence equals angle of reflection
+- In one refraction method question, mirror/reflection methods scored zero because the question asked for refraction"
+RPA 10 infrared radiation and surfaces: method,"- Use two flasks or surfaces with different finishes, such as black and silver
+- For emission, put equal volumes of hot water in each flask
+- Put thermometers in the flasks or place IR detectors near them
+- Record initial temperature or detector reading
+- Start a stopclock
+- Record temperatures or detector readings after the same time, such as 10 minutes
+- Calculate temperature decrease or change in detector reading for each flask
+- Compare the changes to test the hypothesis
+- Keep distance from detector/heater the same
+- Keep starting conditions the same"
+"RPA 10 infrared radiation and surfaces: context, risks and examiner traps","- Black surfaces absorb more infrared than white surfaces
+- Matt surfaces absorb more infrared than shiny surfaces of the same colour
+- Matt black is often the best absorber; shiny white is often the worst absorber
+- For emission, black surfaces usually emit infrared better than silver/shiny surfaces
+- Compare temperature change, not just final temperature
+- Greatest emission rate is when the temperature difference from surroundings is greatest
+- Repeat readings are needed to show precision by clustering closely
+- Low detector resolution can weaken a conclusion if two readings round to the same value
+- Heater/infrared radiation is the hazard; burns are the risk"
